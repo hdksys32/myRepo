@@ -1,3 +1,3 @@
 # myRepo
 For personal use
-My initial commit
+My initial commit and looking for conflict
